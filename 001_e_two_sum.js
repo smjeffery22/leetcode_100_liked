@@ -8,7 +8,7 @@
 // Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 /*
- * FIRST APPROACH
+ *  MY ATTEMPT
  */
 
 // Array => array of integers
@@ -44,7 +44,7 @@ const target = 17;
 // Space complexity: O(1) => constant - not allocating any extra memory
 
 /*
- * OPTIMAL SOLUTION
+ *  OPTIMAL SOLUTION
  */
 
 // Come up with an algorithm that is less than O(n^2) time complexity?
